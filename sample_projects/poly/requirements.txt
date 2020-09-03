@@ -1,0 +1,3 @@
+file:///Users/apljungquist/docs/2019/toxc/sample_projects/poly/packages/client#egg=client
+file:///Users/apljungquist/docs/2019/toxc/sample_projects/poly/packages/common#egg=common
+file:///Users/apljungquist/docs/2019/toxc/sample_projects/poly/packages/server#egg=server

@@ -13,6 +13,9 @@ _PROJECT_NAMES = [
     # Keep slow tests and expected failures in the back to fail fast
     pytest.param("coalmine", marks=[]),
     pytest.param("pypackage", marks=[]),
+    pytest.param("poly/packages/common", marks=[]),
+    pytest.param("poly/packages/server", marks=[]),
+    pytest.param("poly/packages/client", marks=[]),
 ]
 
 
